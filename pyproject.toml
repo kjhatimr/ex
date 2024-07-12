@@ -10,7 +10,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ex"
+name = "crud"
 version = "0.0.1"
 dependencies = [
     "postgresql"
